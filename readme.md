@@ -2,9 +2,10 @@
 ## 개요
 - 벽돌깨기와 슈팅 게임을 융합한 게임입니다.  
 - [🎮 itch-io에서 플레이](https://easy-h.itch.io/superpongbros)
+- [🎮 Github Pages에서 플레이](https://easy-h.github.io/super-pong-bros)
 
 ## 개발 환경
-- 게임 엔진: Unity 6000.0.60f1
+- 게임 엔진: Unity 6000.3.11f1
 - 데이터베이스: Firebase Realtime Database
 
 ## 계획
